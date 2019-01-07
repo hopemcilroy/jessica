@@ -52,6 +52,7 @@ h3 {
 blockquote {
     hanging-punctuation: first;
     text-indent: -0.01em;
+    colour: rgba(255,252,214,100);
     
 }
 
