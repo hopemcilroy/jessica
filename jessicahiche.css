@@ -62,6 +62,10 @@ header h2 {
 
 }
 
+div.a {
+    line-height: 1.6;
+}
+
 /*-------- STYLING LINKS ---------*/
 
 a {
