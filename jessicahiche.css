@@ -65,12 +65,12 @@ header h2 {
 /*-------- STYLING LINKS ---------*/
 
 a {
-    color: #c06;
+    color:rgba(254,215,73,100);
     text-decoration: none;
 }
 
 a:hover {
-    color: darkblue;
+    color: color: rgba(254,215,73,100);
     border-bottom: 1px dotted;
 }
 
