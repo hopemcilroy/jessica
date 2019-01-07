@@ -149,7 +149,7 @@ th {
     text-transform: uppercase;
     font-weight: normal;
     text-align: left;
-    background: #c06;
+    background:rgba(224,81,62,100);
 }
 
 th, td {
@@ -157,7 +157,7 @@ th, td {
 }
 
 table, td {
-    background: #BFBEBB;
+    background: #FFFFFF;
     border: 2px solid #fff;
     }
 /* ------------- FOOTER -----------*/
