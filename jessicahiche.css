@@ -31,6 +31,9 @@ p, li, blockquote {
     line-height: 1.6;
 }
 
+li {
+    align-content: center;}
+
 h1 {
     font-size: 3.998em;
     margin-top: 1em;
@@ -139,7 +142,7 @@ table {
     border-collapse: collapse;
     border-spacing: 2px;
     margin-bottom: 2em;
-    align-content: center;
+ 
   } 
 
 caption {
