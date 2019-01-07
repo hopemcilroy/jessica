@@ -13,8 +13,8 @@ body {
     width: 75%;
     max-width: 670px;
     margin:auto;
-    background: #fafafa;
-    color: #333;
+    background: rgba(0,57,84,100);
+    color: #fff;
     font-family: 'Catamaran', sans-serif;
 }
 
@@ -22,7 +22,7 @@ body {
 
 h1, h2, h3 {
     font-weight: normal;
-    color: rgba(0,57,84,100);
+    color: rgba(163,207,201,100);
     text-align: center;
     font-family: 'Staatliches', cursive;
 }
