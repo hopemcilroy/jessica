@@ -60,11 +60,7 @@ header h2 {
     margin-top: 0.1em;
     color: rgba(254,215,73,100);
 
-}
 
-div.a {
-    line-height: 80%;
-}
 
 /*-------- STYLING LINKS ---------*/
 
@@ -163,6 +159,7 @@ th, td {
 table, td {
     background: #ffffff;
     border: 2px solid #fff;
+    colour: #000000;
     }
 /* ------------- FOOTER -----------*/
 
