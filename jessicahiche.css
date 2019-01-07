@@ -139,6 +139,7 @@ table {
     border-collapse: collapse;
     border-spacing: 2px;
     margin-bottom: 2em;
+    align-content: center;
   } 
 
 caption {
@@ -162,6 +163,7 @@ th, td {
 table, td {
     background: #ffffff;
     border: 2px solid #fff;
+   
     }
 /* ------------- FOOTER -----------*/
 
