@@ -129,16 +129,7 @@ img {
     max-width: 100%
 }
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
 
-row::after {
-  content: "";
-  clear: both;
-  display: table;
 
 /* ------------ TABLE -------------*/
 
@@ -185,38 +176,7 @@ footer hr {
 
 }
 
-/* ---------ICONS------------*/
 
-.connections {
-    position: relative;
-    margin: 0 auto;
-    margin: 20px, 0;
-}
-
-.connections ul{
-    margin: 0;
-    padding: 0;
-}
-
-.connections li {
-    margin: 0 15px;
-    padding: 0;
-    list-style: none;
-    display: inline-block;
-}
-
-.connections img {
-    opacity: 0.5;
-    border: none;
-}
-
-.connections a:hover img{
-    opacity: 1.0;
-    border-bottom: none;
-    transition: all 0.3s ease-in-out;
-    transform: scale(1.2);
-    
-}
 
 hr {
     margin 1em 0;
